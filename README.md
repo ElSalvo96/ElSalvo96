@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Fineco Bank as a front-end developer<br>
+🔭 I’m currently working at [Mews](https://github.com/MewsSystems) as a front-end developer<br>
 🤝 Let's use typescript for a better world<br>
 ⚡ Full-stack developer for passion
 
